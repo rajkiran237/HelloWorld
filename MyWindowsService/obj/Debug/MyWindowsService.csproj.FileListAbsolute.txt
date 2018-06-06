@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
