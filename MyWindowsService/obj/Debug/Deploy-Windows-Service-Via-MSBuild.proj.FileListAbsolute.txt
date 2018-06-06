@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.Core.dll
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.dll
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Couchbase.NetClient.dll
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.pdb
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.xml
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.Core.pdb
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.Core.xml
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Couchbase.NetClient.xml
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\obj\Debug\Deploy-Windows-Service-Via-MSBuild.projResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\Program Files (x86)\Jenkins\workspace\Windows Service Deployment\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
