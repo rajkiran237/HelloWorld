@@ -41,7 +41,7 @@ namespace MyWindowsService
             {
                 lines.AddRange(
                     new[] {
-                        "Excpetion:",
+                        "Exception:",
                         ex.Message,
                         ex.StackTrace
                     });
@@ -91,7 +91,7 @@ namespace MyWindowsService
             {
                 lines.AddRange(
                 new[] {
-                        "Excpetion:",
+                        "Exception:",
                         ex.Message,
                         ex.StackTrace
                 });
